@@ -1,0 +1,7 @@
+id=xray-CA
+name=xray CA证书
+version=v1.0
+versionCode=1
+author=J1an
+description=将Xray劫持HTTPS流量时需要的CA证书添加为系统根证书
+minMagisk=1600
